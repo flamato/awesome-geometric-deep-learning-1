@@ -3,7 +3,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-![](gcn_web.png)
+<p align="center">
+    <img src='gcn_web.png' />
+</p>
 
 ## Review 
 1. **Geometric deep learning: going beyond Euclidean data (IEEE Signal Processing Magazine 2017)**
